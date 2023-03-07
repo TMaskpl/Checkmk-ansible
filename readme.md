@@ -1,4 +1,4 @@
-# Install checkmk agent 2.1 witch ansible
+# Install checkmk agent 2.1 with ansible
 
 # Download coletion 
 
