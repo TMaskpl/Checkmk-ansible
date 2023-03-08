@@ -1,6 +1,6 @@
 # Install checkmk agent 2.1 with ansible
 
-# Download coletion 
+# Download colletion 
 
 ```ansible-galaxy collection install tribe29.checkmk```
 
